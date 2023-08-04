@@ -5,7 +5,7 @@ import { FaChevronLeft } from "react-icons/fa";
 
 const Header = () => {
     return (
-        <Wrapper>
+        <Wrapper role="phone header">
             {/* white part */}
             <div className="white-section"></div>
             <FaChevronLeft className="icon" color="#fff" />

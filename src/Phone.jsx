@@ -5,10 +5,10 @@ import { FaChevronRight } from "react-icons/fa";
 
 const Phone = () => {
     return (
-        <Wrapper>
+        <Wrapper role="phone">
             {/* Header */}
             <Header />
-            <div className="phone-container">
+            <div role="messages" className="phone-container">
                 <p className="message message-purple">That sounds great. I'd be happy with that.</p>
                 <p className="message message-purple">That sounds great. I'd be happy with that.</p>
                 <div className="images">

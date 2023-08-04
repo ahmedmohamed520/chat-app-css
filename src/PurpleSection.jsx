@@ -2,7 +2,7 @@ import React from "react";
 import { styled } from "styled-components";
 
 const PurpleSection = () => {
-    return <Wrapper> </Wrapper>;
+    return <Wrapper role="purble-section"> </Wrapper>;
 };
 
 const Wrapper = styled.div`

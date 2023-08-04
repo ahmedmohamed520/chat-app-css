@@ -3,7 +3,7 @@ import { styled } from "styled-components";
 
 const AboutUs = () => {
     return (
-        <Wrapper>
+        <Wrapper role="about us">
             <div className=""></div>
             <div className="text-box">
                 <h1 className="heading">Simple booking</h1>
